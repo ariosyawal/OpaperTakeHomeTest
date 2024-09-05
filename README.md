@@ -6,6 +6,11 @@ display the item list by category following the design
 
 ![mockup](./example-mockup.png)
 
+the styling is up to you (coloring and sizing etc..), but please make sure the design is aligned
+with the mockup and
+also looks good on mobile devices and
+aesthetically easy to read and understand (bonus point).
+
 # how to start the project
 
 - clone this repo
